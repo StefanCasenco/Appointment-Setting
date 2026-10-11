@@ -23,7 +23,7 @@ INTENT → *[middle nodes, order depends on the lead]* → SHOW THE GAP → WANT
 | TL | Timeline |
 | WGW | What Got in the Way |
 
-**Start here:** [TOP-5-LIKELY-CALLS.md](TOP-5-LIKELY-CALLS.md) has the five most likely trading calls written in a short, conversational style (bridges, light digging, 6-8 minutes). Read it first to get a feel for how a call should sound, then use the full set below.
+**Start here:** [TOP-5-LIKELY-CALLS.md](TOP-5-LIKELY-CALLS.md) has the five most likely trading calls written in a short, casual style that matches how the call should sound (booked-in-from-the-ad opener, 5 min frame, quick context and goal questions). Read it first to get a feel for how a call should sound, then use the full set below.
 
 ## By experience (decides the path)
 
